@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.1] - 2026-06-28
+
 ### Added
 
 - First version of the mod!
+
+[unreleased]: https://github.com/Read-Em-And-Weep/ExtraArcanaSlots/compare/0.0.1...HEAD
+[0.0.1]: https://github.com/Read-Em-And-Weep/ExtraArcanaSlots/compare/2cb81fb6649a097527fb1ba46076db96e8acb2f8...0.0.1
