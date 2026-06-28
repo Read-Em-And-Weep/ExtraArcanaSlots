@@ -4,4 +4,4 @@ Have you ever been creating Arcana set-ups and wanted to save more layouts? This
 
 ## Uninstallation
 
-When uninstalling, make sure that the selected slot is one of the first six (first six on the left). If you do not do this, it is still fine, however make sure that when you chose one, you do not click "select previous set" but instead advance to the "next set"
+When uninstalling, make sure that the selected slot is one of the first six (first six on the left). If you do not do this, it is still fine, however make sure that when you next load into the game without the mod, you do not click "select previous set" but instead advance to the "next set"
