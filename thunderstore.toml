@@ -7,7 +7,7 @@ namespace = "ReadEmAndWeep"
 name = "Extra_Arcana_Layout_Slots"
 versionNumber = "0.0.1"
 description = "Adds extra slots for arcana layouts."
-websiteUrl = "https://github.com/AuthorName/ModName"
+websiteUrl = "https://github.com/Read-Em-And-Weep/ExtraArcanaSlots"
 containsNsfwContent = false
 
 [package.dependencies]
