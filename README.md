@@ -1,6 +1,6 @@
 # Extra Arcana Slots
 
-Have you ever been creating Arcana set-ups and wanted to save more layout? This mod increase the number of saved layouts from 6 to 16!
+Have you ever been creating Arcana set-ups and wanted to save more layouts? This mod increases the number of saved layouts from 6 to 16!
 
 ## Uninstallation
 
